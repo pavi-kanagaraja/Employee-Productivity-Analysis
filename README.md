@@ -17,6 +17,7 @@ workplace, enabling informed decision-making and strategic interventions. The ov
 development, job satisfaction, and overall engagement. By aligning individual performance with organizational objectives, we aspire to drive sustained growth, 
 maintain competitiveness, and ensure the long-term success of organization in the ever-evolving business landscape.
 
+
 **OVERVIEW** :
 
    First, we organize and clean up the data. Then, we focus on important details, like figuring out which employees work a lot or a little and who takes more or
