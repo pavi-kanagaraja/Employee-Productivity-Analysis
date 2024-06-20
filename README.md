@@ -66,7 +66,7 @@ It shows that the productivity rate of the mentioned employees is low, as they h
 Each employee's timesheet showing what they accomplished during the workday. For each person's productivity to be calculated, it must be updated. Due to the aforementioned employee's incomplete timesheet, production has decreased.The data from the previous six months will be divided into weeks to examine each employee’s performance and boost a company’s efficiency.It is evident that the employee’s did not consistently update the time sheet.Because of this,It is less probable  that the productivity of  a company will grow as a result of an employee’s performance.
 
 
-## HIGHEST PERFORMANCE:
+### HIGHEST PERFORMANCE:
 
 The analysis also identified employees demonstrating exceptional productivity. These high-performing individuals consistently exhibited above-average output, contributing significantly to overall company performance. Their commitment, efficiency, and effectiveness in completing tasks highlighted them as valuable assets within the organization.
 
@@ -77,6 +77,8 @@ displays the best performance of the employees who gave their jobs all.
 ![image](https://github.com/pavi-kanagaraja/Employee-Productivity-Analysis/assets/143257691/cb47b741-25fb-4670-a5c5-aa38005b9732)
 
 Monthly analyses identify three employees as consistently more productive than their peers. Their sustained high performance across various metrics underscores their reliability and efficiency in contributing to the company's success, making them valuable assets to the organization.
+
+## CONCLUSION:
 
 
 
